@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
   if (
     winUrl !== "/sumit/mordernaize/" &&
     winUrl !== "/sumit/mordernaize/services" &&
+    winUrl !== "/sumit/mordernaize/contact" &&
     winUrl !== "/sumit/mordernaize/financial-firms"
   ) {
     mix.forEach((el) => {

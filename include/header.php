@@ -64,7 +64,7 @@
                                             <a class="nav-link" href="./about-us">About Us</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#">Contact Us</a>
+                                            <a class="nav-link" href="./contact.php">Contact Us</a>
                                         </li>
                                     </ul>
                                     <div class="align-self-end text-center text-md-end fs-13">

@@ -557,6 +557,11 @@ section:has(.help-box)::before {
     opacity: .7;
 }
 
+section.d-flex:has(.help-box)::before {
+    background-color: var(--white);
+    opacity: 0;
+}
+
 .hover-grad::before {
     position: absolute;
     content: '';
