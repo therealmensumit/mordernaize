@@ -55,7 +55,7 @@
             </div>
             <div class="col-md-6 text-md-end">
                 <p class="mb-0">
-                    <small>2024 Modernized Marketing, All rights reserved&nbsp;&copy;</small>
+                    <small><?= date('Y') ?> Modernized Marketing, All Rights Reserved&nbsp;&copy;</small>
                 </p>
             </div>
         </div>
